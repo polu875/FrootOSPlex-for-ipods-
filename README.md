@@ -10,7 +10,8 @@ I already have FrootOS, But here i'l show you a demo.
 
 Right click on the video to open it in a new tab.
 # 3. Open it on your iPod
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTk1MDg1MCwtMjQ1MTM2MDg2LC0xMT
-gwMDU3ODA0XX0=
+eyJoaXN0b3J5IjpbLTEzMTg3NDgyNDAsMTg5NTk1MDg1MCwtMj
+Q1MTM2MDg2LC0xMTgwMDU3ODA0XX0=
 -->
