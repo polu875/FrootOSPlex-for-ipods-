@@ -1,6 +1,8 @@
 # FrootOSPlex-for-ipods-
-F
 Get FrootOS on your iPod!
+# 1. Download
+Get FrootOS
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjg4NTk5OF19
+eyJoaXN0b3J5IjpbLTIwMzY0OTQ4NDZdfQ==
 -->
