@@ -11,8 +11,9 @@ I already have FrootOS, But here i'l show you a demo.
 Right click on the video to open it in a new tab.
 # 3. Open it on your iPod
 [Click on this link to see me doing it.](https://jumpshare.com/b/ox8iNe7nMB5vAlc3eary)
-# 
+# Finish
+We are done! Now you have a OS on your iPod.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTE1NzYsLTEzMTg3NDgyNDAsMTg5NT
-k1MDg1MCwtMjQ1MTM2MDg2LC0xMTgwMDU3ODA0XX0=
+eyJoaXN0b3J5IjpbMzA0MTEzMjc2LC0xMzE4NzQ4MjQwLDE4OT
+U5NTA4NTAsLTI0NTEzNjA4NiwtMTE4MDA1NzgwNF19
 -->
